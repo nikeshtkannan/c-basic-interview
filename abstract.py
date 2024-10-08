@@ -16,4 +16,5 @@ class Rectangle(Shape):
 # Using the Rectangle class
 rect = Rectangle(4, 5)
 print(f'Area: {rect.area()}')  # Output: Area: 20
+#nothing bruh
 
